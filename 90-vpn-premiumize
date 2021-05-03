@@ -1,0 +1,2 @@
+%wheel ALL=(ALL) NOPASSWD: /usr/bin/systemctl start openvpn-client@vpn-??.premiumize.me.service
+%wheel ALL=(ALL) NOPASSWD: /usr/bin/systemctl stop openvpn-client@vpn-??.premiumize.me.service

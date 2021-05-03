@@ -1,0 +1,2 @@
+<Customer ID (see https://www.premiumize.me/account)>
+<API Key (see https://www.premiumize.me/account)>
